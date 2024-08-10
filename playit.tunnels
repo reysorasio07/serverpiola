@@ -9,28 +9,28 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "may-ho.gl.joinmc.link",
-          "assigned_srv": "may-ho.gl.joinmc.link",
+          "assigned_domain": "relations-greensboro.gl.joinmc.link",
+          "assigned_srv": "relations-greensboro.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "e2187007-7add-46eb-a65c-082042b01b20",
-          "ip_hostname": "21.ip.gl.ply.gg",
+          "id": "b4bc6ec3-db8d-49c3-94a2-010da83cacb3",
+          "ip_hostname": "20.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 57916,
-          "port_start": 57915,
+          "port_end": 34583,
+          "port_start": 34582,
           "region": "global",
-          "static_ip4": "147.185.221.21",
-          "tunnel_ip": "2602:fbaf:0:1::15"
+          "static_ip4": "147.185.221.20",
+          "tunnel_ip": "2602:fbaf:0:1::14"
         },
         "status": "allocated"
       },
-      "created_at": "2024-08-09T14:13:02.022795Z",
+      "created_at": "2024-08-10T00:43:03.234385Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "fd368454-6eea-47ae-b447-3dd3c31448ca",
+      "id": "6ae6099e-edca-40c0-b8c9-ad69a9adda50",
       "name": "Minecraft Java",
       "origin": {
         "data": {
